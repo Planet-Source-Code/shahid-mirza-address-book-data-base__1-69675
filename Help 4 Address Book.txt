@@ -1,0 +1,29 @@
+Copy following OCX file to System32 folder. 
+
+LVbuttons.ocx
+
+If you have still the Problem then Follow the Instruction 
+
+1.  After that Must Open any Blank Vb Project without saving
+2.  Press Ctrl+T buttons from ur keyboard the Component Window will appears (i think you know how to add components)
+3.  From your Component window    Add the Components "LVbuttons"
+4.  If you cant find LVbuttons
+5.  Then press "Browse" Button from Componenet Window
+6.  Try to find the "LVbuttons.ocx" and press Open Button it will select the LVbuttons Buttons
+7.  The Components LVbuttons will Display on Your Left side "ToolBox" of VB
+8.  Add the LVbuttons on your form and Run it on for one time
+9.  Remove / Exit from it without saving
+10. If u already Unzip Address Book Please Delete it and Unzip again from ZIP Address Book that u download from PSCode.
+
+if u have any problem feel free
+can contact online, if u desire    here is my yahoo ID methoomirza@yahoo.com 
+
+waiting ur responce............. Thanks 
+
+Can Contact me if u want any further assistance 4 any other Projects 
+i will glad to ans ur queries 
+Thanks Once again 
+
+M Shahid Mughal 
+methoomirza@hotmail.com
++92300641058
